@@ -1,0 +1,12 @@
+/*ola*/
+main{
+    background-color:rgb(113, 184, 254);
+}
+img{
+    border:10px solid blue;
+    border-radius:15px;
+}
+.conc{
+    border-radius: 30px;
+    background-color: white;
+}
