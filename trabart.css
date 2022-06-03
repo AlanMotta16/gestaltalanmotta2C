@@ -6,7 +6,39 @@ img{
     border:10px solid blue;
     border-radius:15px;
 }
+a:link{
+    padding:15px;
+    background-color:rgb(113, 184, 254);
+    border-radius:30px;
+    color:rgb(28, 70, 185);
+}
 .conc{
     border-radius: 30px;
-    background-color: white;
+    background-color:rgb(223, 239, 255);
+    color:rgb(28, 70, 185);
+    font-weight:bold;
+}
+.imgtit{
+    padding:5px;
+    background-color:rgb(194, 224, 255);
+    border-radius:30px;
+    color:rgb(28, 70, 185);
+}
+.imgtit1{
+    margin-top:5px;
+}
+.imgamb{
+    margin-top:5px;
+}
+.listit{
+    text-align:justify;
+}
+.fw-bold{
+    color:rgb(28, 70, 185);
+}
+.list3{
+    margin-bottom:5px;
+}
+footer{
+    text-align: center;
 }
